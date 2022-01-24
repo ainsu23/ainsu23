@@ -6,4 +6,4 @@
 - 🌱 I’m currently learning polish language, javaScript, css, 
 - 👯 I’m looking to collaborate on R, shiny
 - 📫 How to reach me: afinsuasty@hotmail.com
-- ⚡ Fun fact: personal website: ainsuasty.com
+- ⚡ Would like to know a bit more about me? check my personal website: ainsuasty.com
